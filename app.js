@@ -1,7 +1,3 @@
-// Made as part of the https://www.udemy.com/course/the-complete-web-development-bootcamp/ course.
-// The CSS was provided and I just made a few minor changes
-// This is different from the first version because it uses a database to store data
-
 const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose");
